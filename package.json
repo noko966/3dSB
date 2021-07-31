@@ -1,0 +1,16 @@
+{
+  "name": "sport3d",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gsap": "^3.7.1",
+    "three": "^0.131.0",
+    "troika-three-text": "^0.42.0"
+  }
+}
